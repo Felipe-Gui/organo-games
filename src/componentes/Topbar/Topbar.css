@@ -1,0 +1,12 @@
+.topbar {
+  padding: 22px;
+  background-color: #414249;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 0;
+  color: #ffffff;
+}
